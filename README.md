@@ -80,4 +80,4 @@ The output CSV file will have the same format as the input file, with the additi
 
 **Conclusion**
 
-In this blog post, we saw how to convert UTM coordinates to latitude and longitude using the pyproj library in Python. We also looked at how to batch convert a large number of coordinates from a CSV file, and write the resulting coordinates to a new CSV file. This technique can be useful in a variety of GIS and mapping applications.
+In this tutorial, we saw how to convert UTM coordinates to latitude and longitude using the pyproj library in Python. We also looked at how to batch convert a large number of coordinates from a CSV file, and write the resulting coordinates to a new CSV file. This technique can be useful in a variety of GIS and mapping applications.
