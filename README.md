@@ -1,6 +1,11 @@
 # Convert UTM to Latitude and Longitude
 Convert UTM coordinates to latitude and longitude using Python
 
+The script uses the pyproj library to convert UTM coordinates to latitude and longitude. You will need to install this library in order to run the script, by running the following command:
+
+```python
+pip install pyproj
+```
 
 **Introduction**
 
